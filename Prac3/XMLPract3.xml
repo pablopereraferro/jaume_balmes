@@ -1,0 +1,34 @@
+<?xml version="1.0" encodign="UTF-8"?>
+
+<Students>
+    <Student grade="1º DAM">
+         <name>Alejandro</name>
+         <surname>Gutiérrez</surname>
+         <email>agutierr22@gmail.com</email>
+         <dni>86493235A<dni>
+    </Student>
+    <Student grade="1º DAM">
+         <name>Pablo</name>
+         <surname>Perera</surname>
+         <email>paperer22@gmail.com</email>
+         <dni>85436565M<dni>
+    </Student>
+    <Student grade="1º DAM">
+         <name>Sebastián</name>
+         <surname>Mendez</surname>
+         <email>semendez22@gmail.com</email>
+         <dni>863235T<dni>
+    </Student>
+    <Student grade="1º DAM">
+         <name>Javier</name>
+         <surname>Hevia</surname>
+         <email>javevia22@gmail.com</email>
+         <dni>8657895B<dni>
+    </Student>
+    <Student grade="1º DAM">
+         <name>Elena</name>
+         <surname>Gonzalez</surname>
+         <email>hegoza22@gmail.com</email>
+         <dni>96745633X<dni>
+    </Student>
+</Students>
