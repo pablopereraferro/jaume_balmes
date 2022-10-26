@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookstore>
+  <books>
+    <book>
+      <title>Don Quijote</title>
+      <publisher>editorial</publisher>
+      <cover>black</cover>
+      <price>18€</price>
+    </book>
+    <book>
+      <title>Geronimo stilton</title>
+      <publisher>editorial 1</publisher>
+      <cover>green</cover>
+      <price>12€</price>
+    </book>
+    <book>
+      <title>el mentalista</title>
+      <publisher>edditorial 2</publisher>
+      <cover>white</cover>
+      <price>9€</price>
+    </book>
+    <book>
+      <title>el señor de los anillos</title>
+      <publisher>editorial 3</publisher>
+      <cover>blue</cover>
+     <price>6€</price>
+    </book>
+  </books>
+</bookstore>
