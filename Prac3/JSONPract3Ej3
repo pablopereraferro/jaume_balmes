@@ -1,0 +1,44 @@
+{
+    "bookstore": {
+        "books": {
+            "book": [
+                {
+                    "title": "Don Quijote",
+                    "publisher": "editorial",
+                    "cover": "black",
+                    "price": {
+                        "currency": "€",
+                        "-text": "10"
+                    }
+                },
+                {
+                    "title": "Geronimo stilton",
+                    "publisher": "editorial 1",
+                    "cover": "green",
+                    "price": {
+                        "currency": "€",
+                        "-text": "12"
+                    }
+                },
+                {
+                    "title": "el mentalista",
+                    "publisher": "edditorial 2",
+                    "cover": "white",
+                    "price": {
+                        "currency": "€",
+                        "-text": "9"
+                    }
+                },
+                {
+                    "title": "el señor de los anillos",
+                    "publisher": "editorial 3",
+                    "cover": "blue",
+                    "price": {
+                        "currency": "€",
+                        "-text": "6"
+                    }
+                }
+            ]
+        }
+    }
+}
