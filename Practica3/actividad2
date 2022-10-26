@@ -1,0 +1,35 @@
+{
+    "Students":{
+        "Student":{
+                
+                    "Grade":"1º DAM",
+                    "name":"Alejandro",
+                    "surname":"Gutierrez",
+                    "email":"agutierr22@gmail.com",
+                    "dni":"86493235A"
+                
+                },
+                {
+                    "Grade":"1º DAM",
+                    "name":"Pablo",
+                    "surname":"Perera",
+                    "email":"paperer22@gmail.com",
+                    "dni":"85436565M"
+                },
+                {
+                    "Grade":"1º DAM",
+                    "name":"Sebastián",
+                    "surname":"Mendez",
+                    "email":"semendez22@gmail.com",
+                    "dni":"863235T"
+                },
+                {
+                    "Grade":"1º DAM",
+                    "name":"Elena",
+                    "surname":"Gonzalez",
+                    "email":"hegoza22@gmail.com",
+                    "dni":"96745633X"
+                }
+            }
+    
+}
