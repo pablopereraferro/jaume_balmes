@@ -5,9 +5,9 @@ table {
 }
  .taula{
     width: 25%;
-    background-color: slategrey;
-    text-align: center;
-    border: 1px solid #000;
+    background-color: slategrey; /*color de fons*/
+    text-align: center; /*alinear el text*/
+    border: 1px solid #000; /*borde de la taula*/
     border-spacing: 0;
 
  }
