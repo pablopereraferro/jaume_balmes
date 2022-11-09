@@ -12,6 +12,10 @@ table {
     width: 30%;
     margin:auto;
  }
+ #titulo2{ width: 55%;
+text-align: center;
+position: relative;
+left: 250px;}
  tr{
     width: 25%;
     text-align: left;
@@ -19,7 +23,7 @@ table {
     font-size: 20px;
  } 
  td{
-    width: 25%;
+   
     text-align: left;
     vertical-align: left; 
     font-size: 20px;
